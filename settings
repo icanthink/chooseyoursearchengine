@@ -1,0 +1,4 @@
+<script>
+var x = document.cookie;
+document.cookie = "username=John Smith; expires=Thu, 18 Dec 2013 12:00:00 UTC; path=/";
+</script>
